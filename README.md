@@ -30,7 +30,7 @@ Aplicación de escritorio en C# (Windows Forms) desarrollada en `frmPedidos` par
 * **Resumen de importes (`lblSubtotal`, `lblDescuento`, `lblEmpaque`, `lblItbis`, `lblTotal`):** Despliega los valores calculados con formato `RD$ 0.00`[cite: 1, 2].
 
 ## 6. Capturas de pantalla del programa en ejecución
-**Formulario inicial:** `<img width="1054" height="730" alt="Captura de pantalla 2026-11-19 222851" src="https://github.com/user-attachments/assets/b803091d-9720-4084-a9d2-31d1b791d22d" />
+**Formulario inicial:** <img width="1054" height="730" alt="Captura de pantalla 2026-11-19 222851" src="https://github.com/user-attachments/assets/b803091d-9720-4084-a9d2-31d1b791d22d" />
 `
 **Pedido agregado y cálculo del caso de prueba:** `<img width="1055" height="728" alt="Captura de pantalla 2026-11-19 222357" src="https://github.com/user-attachments/assets/e404d9d1-8930-4826-a222-183867ceb5da" />
 <img width="1059" height="732" alt="Captura de pantalla 2026-11-19 222521" src="https://github.com/user-attachments/assets/3193514e-c823-4e16-8b5a-6d4f943bd2d6" />
